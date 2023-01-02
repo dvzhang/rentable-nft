@@ -3,6 +3,8 @@
     "@openzeppelin/contracts": "^4.8.0"
   },
   "devDependencies": {
-    "@openzeppelin/test-helpers": "^0.5.16"
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@truffle/hdwallet-provider": "^2.1.4",
+    "dotenv": "^16.0.3"
   }
 }
